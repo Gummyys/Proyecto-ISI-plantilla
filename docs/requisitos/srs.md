@@ -268,6 +268,16 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+| **Alias** | Identificador público, único y pseudónimo (mínimo 3 caracteres, sin espacios) utilizado por la persona usuaria en el foro y espacios comunitarios para interactuar sin exponer su nombre completo ni datos personales. | Acta de captura §1.1, §8; Catálogo (FR-188, FR-192) |
+| **Coordinador / Persona coordinadora** | Rol de administración de la plataforma responsable de moderar el foro y las interacciones, gestionar los reportes de contenido y aprobar o gestionar las cuentas de cuidadores y nutricionistas. | Acta de captura §4, §8; Catálogo (UR-10, UR-13) |
+| **Cuidador** | Persona registrada que presta apoyo a uno o varios pacientes con EII. Para acceder a los datos de salud del paciente requiere autorización explícita de este y aprobación de la cuenta por el coordinador. | Acta de captura §1.2, §2; Visión y Alcance §2.1 |
+| **Enfermedad Inflamatoria Intestinal (EII)** | Término que engloba trastornos digestivos crónicos (como la enfermedad de Crohn y la colitis ulcerosa) caracterizados por inflamación intestinal, sobre los que versa el contenido y propósito de la plataforma. | Visión y Alcance §1.1; SRS §1.1 |
+| **Guía interactiva** | Componente de ayuda dentro de la interfaz que proporciona instrucciones contextuales paso a paso y recorridos interactivos sobre el uso del sistema, permitiendo ser pausada, omitida o reanudada. | Acta de captura §6, §8; Catálogo (UR-12, FR-172) |
+| **Nutricionista / Nutricionista acreditado** | Profesional de la salud (que abarca tanto a nutricionistas como a médicos) cuya documentación profesional ha sido verificada. Cuenta con un distintivo visual público y permisos para validar o publicar recetas y artículos de salud. | Acta de captura §1.3, §8; Visión y Alcance §2.1 |
+| **Paciente** | Persona registrada afectada por EII que utiliza la plataforma para consultar recetas adaptadas, registrar y compartir sus datos de salud, interactuar en el foro y autorizar a sus cuidadores o nutricionistas. | Acta de captura §1.1, §2; Visión y Alcance §2.1 |
+| **Receta adaptada** | Receta catalogada cuyo perfil de ingredientes, alérgenos e información nutricional encaja con las restricciones o perfil declarados por el paciente. No implica la modificación automatizada de ingredientes por el sistema. | Acta de captura §3; Visión y Alcance §2.3 |
+| **Receta propuesta** | Receta creada e introducida en el sistema por un paciente o cuidador que permanece en estado pendiente de revisión hasta ser evaluada por un nutricionista acreditado. | Acta de captura §3; Catálogo (FR-204) |
+| **Receta validada** | Receta publicada en la plataforma que ha sido revisada y aprobada por un nutricionista acreditado, o bien creada directamente por un profesional de la salud. | Acta de captura §3; Catálogo (FR-205) |
 
 ## 10. Modelos de análisis
 
